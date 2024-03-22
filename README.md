@@ -18,10 +18,10 @@ O projeto está estruturado da seguinte forma:
 
 O portfólio inclui as seguintes seções e funcionalidades:
 
-- Sobre mim: Breve introdução e informações sobre Lucas Edmundo.
+- Sobre mim: Breve introdução e informações sobre mim.
 - Projetos: Exibição dos projetos mais recentes e relevantes.
 - Contato: Formulário de contato para os visitantes deixarem suas informações.
-- Links de redes sociais: Links para perfis de redes sociais de Lucas Edmundo.
+- Links de redes sociais: Links para perfis de redes.
 
 ## Uso
 
