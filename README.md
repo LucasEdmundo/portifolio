@@ -4,7 +4,7 @@ Este repositório contém o código-fonte do meu portfólio.
 
 ## Sobre o Projeto
 
-Este portfólio foi criado para exibir os projetos e trabalhos desenvolvidos por Lucas Edmundo. Ele serve como uma plataforma para apresentar suas habilidades, experiência e conquistas no campo do desenvolvimento web e design.
+Este portfólio foi criado para exibir os projetos e trabalhos desenvolvidos por mim. Ele serve como uma plataforma para apresentar minhas habilidades, experiência e conquistas no campo do desenvolvimento web e design.
 
 ## Estrutura do Projeto
 
