@@ -22,6 +22,7 @@ O portfólio inclui as seguintes seções e funcionalidades:
 - Projetos: Exibição dos projetos mais recentes e relevantes.
 - Contato: Formulário de contato para os visitantes deixarem suas informações.
 - Links de redes sociais: Links para perfis de redes.
+- Ferramentas : Tecnologias do meu cotidiano.
 
 ## Uso
 
